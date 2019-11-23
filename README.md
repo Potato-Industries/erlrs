@@ -1,10 +1,11 @@
 # erlrs
 
-erlang based reverse shell
+erlang based secure reverse shell
+
 
 **Usage**
 
-erlrs.erl
+erlrs.erl *(plaintext)*
 
 Target
 ```
@@ -25,7 +26,7 @@ Linux WOPR-KALI 5.3.0-kali2-amd64 #1 SMP Debian 5.3.9-1kali1 (2019-11-11) x86_64
 ^C
 ```
 
-erlrss.erl (tls)
+erlrss.erl *(tls)*
 
 Target
 ```
